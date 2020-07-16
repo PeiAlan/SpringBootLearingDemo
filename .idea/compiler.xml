@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-beatlsql" />
+        <module name="springboot-jpa" />
+        <module name="springboot-jms" />
+        <module name="springboot-jdbc" />
+        <module name="demo" />
+        <module name="libary" />
+        <module name="sharding-jdbc-master-slave" />
+        <module name="springboot-mongodb" />
+        <module name="springboot-scheduling-tasks" />
+        <module name="springboot-upload-file" />
+        <module name="springboot-rabbitmq" />
+        <module name="firstspringboot" />
+        <module name="sharding-jdbc-db-ms-tbl" />
+        <module name="springboot-first-application" />
+        <module name="springboot-handling-form-submission" />
+        <module name="chapter4" />
+        <module name="chapter3" />
+        <module name="springboot-resttemplate" />
+        <module name="springboot-asynchronous-methods" />
+        <module name="springboot-config" />
+        <module name="springboot-redis" />
+        <module name="springboot-with-docker" />
+        <module name="springboot-mybatis" />
+        <module name="sharding-jdbc-master-slave-tables" />
+        <module name="springboot-mybatis (1)" />
+        <module name="springboot-validate-form" />
+        <module name="application" />
+        <module name="springboot-restdocs" />
+        <module name="springboot-elk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="application" target="1.8" />
+      <module name="chapter3" target="1.8" />
+      <module name="chapter4" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="firstspringboot" target="1.8" />
+      <module name="libary" target="1.8" />
+      <module name="sharding-jdbc-db-ms-tbl" target="1.8" />
+      <module name="sharding-jdbc-example" target="1.5" />
+      <module name="sharding-jdbc-master-slave" target="1.8" />
+      <module name="sharding-jdbc-master-slave-tables" target="1.8" />
+      <module name="springboot-asynchronous-methods" target="1.8" />
+      <module name="springboot-beatlsql" target="1.8" />
+      <module name="springboot-config" target="1.8" />
+      <module name="springboot-elk" target="1.8" />
+      <module name="springboot-first-application" target="1.8" />
+      <module name="springboot-handling-form-submission" target="1.8" />
+      <module name="springboot-jdbc" target="1.8" />
+      <module name="springboot-jms" target="1.8" />
+      <module name="springboot-jpa" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot-multi-module" target="1.5" />
+      <module name="springboot-mybatis" target="1.8" />
+      <module name="springboot-mybatis (1)" target="1.8" />
+      <module name="springboot-rabbitmq" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springboot-restdocs" target="1.8" />
+      <module name="springboot-resttemplate" target="1.8" />
+      <module name="springboot-scheduling-tasks" target="1.8" />
+      <module name="springboot-upload-file" target="1.8" />
+      <module name="springboot-validate-form" target="1.8" />
+      <module name="springboot-with-docker" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sharding-jdbc-db-ms-tbl" options="-parameters" />
+      <module name="sharding-jdbc-master-slave" options="-parameters" />
+      <module name="sharding-jdbc-master-slave-tables" options="-parameters" />
+    </option>
+  </component>
+</project>

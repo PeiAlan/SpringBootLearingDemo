@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-elk/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jms/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-aipdoc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/firstspringboot-2h/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-beatlsql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-restdocs/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-upload-file/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-with-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-multi-module/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-resttemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis-message/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-validate-form/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-scheduling-tasks/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-first-application/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-asynchronous-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-cacahe-data-with-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-handling-form-submission/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
