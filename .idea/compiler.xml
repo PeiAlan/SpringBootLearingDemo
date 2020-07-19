@@ -6,35 +6,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-beatlsql" />
-        <module name="springboot-jpa" />
-        <module name="springboot-jms" />
-        <module name="springboot-jdbc" />
+        <module name="springboot-mybatis" />
         <module name="demo" />
-        <module name="libary" />
-        <module name="sharding-jdbc-master-slave" />
-        <module name="springboot-mongodb" />
-        <module name="springboot-scheduling-tasks" />
-        <module name="springboot-upload-file" />
         <module name="springboot-rabbitmq" />
         <module name="firstspringboot" />
-        <module name="sharding-jdbc-db-ms-tbl" />
-        <module name="springboot-first-application" />
-        <module name="springboot-handling-form-submission" />
-        <module name="chapter4" />
-        <module name="chapter3" />
-        <module name="springboot-resttemplate" />
-        <module name="springboot-asynchronous-methods" />
-        <module name="springboot-config" />
-        <module name="springboot-redis" />
-        <module name="springboot-with-docker" />
-        <module name="springboot-mybatis" />
         <module name="sharding-jdbc-master-slave-tables" />
-        <module name="springboot-mybatis (1)" />
+        <module name="springboot-redis" />
+        <module name="chapter4" />
+        <module name="springboot-jpa" />
+        <module name="libary" />
+        <module name="SpringBootLearning" />
+        <module name="springboot-handling-form-submission" />
         <module name="springboot-validate-form" />
-        <module name="application" />
-        <module name="springboot-restdocs" />
+        <module name="springboot-first-application" />
+        <module name="springboot-resttemplate" />
+        <module name="springboot-config" />
         <module name="springboot-elk" />
+        <module name="springboot-jdbc" />
+        <module name="springboot-hutool" />
+        <module name="springboot-upload-file" />
+        <module name="sharding-jdbc-db-ms-tbl" />
+        <module name="chapter3" />
+        <module name="springboot-scheduling-tasks" />
+        <module name="sharding-jdbc-master-slave" />
+        <module name="springboot-beatlsql" />
+        <module name="application" />
+        <module name="springboot-asynchronous-methods" />
+        <module name="springboot-jms" />
+        <module name="springboot-restdocs" />
+        <module name="springboot-mybatis (1)" />
+        <module name="springboot-mongodb" />
+        <module name="springboot-with-docker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -54,6 +56,7 @@
       <module name="springboot-elk" target="1.8" />
       <module name="springboot-first-application" target="1.8" />
       <module name="springboot-handling-form-submission" target="1.8" />
+      <module name="springboot-hutool" target="1.8" />
       <module name="springboot-jdbc" target="1.8" />
       <module name="springboot-jms" target="1.8" />
       <module name="springboot-jpa" target="1.8" />
@@ -69,6 +72,7 @@
       <module name="springboot-upload-file" target="1.8" />
       <module name="springboot-validate-form" target="1.8" />
       <module name="springboot-with-docker" target="1.8" />
+      <module name="SpringBootLearning" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -76,6 +80,7 @@
       <module name="sharding-jdbc-db-ms-tbl" options="-parameters" />
       <module name="sharding-jdbc-master-slave" options="-parameters" />
       <module name="sharding-jdbc-master-slave-tables" options="-parameters" />
+      <module name="springboot-hutool" options="-parameters" />
     </option>
   </component>
 </project>

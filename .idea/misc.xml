@@ -32,6 +32,8 @@
         <option value="$PROJECT_DIR$/springboot-asynchronous-methods/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cacahe-data-with-spring/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-handling-form-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-hutool/pom.xml" />
       </list>
     </option>
   </component>
